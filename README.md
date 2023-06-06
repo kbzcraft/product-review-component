@@ -1,5 +1,5 @@
 # Frontend Mentor - Product preview card component
-
+### [Check Live Preview](https://kbzcraft.github.io/product-review-component/)
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
